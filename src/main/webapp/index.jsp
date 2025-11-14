@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1> Winter Collection 2025 </h1>
+            <h1> Summer Collection 2026 </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -845,7 +845,7 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>mobilephones</h3>
+                <h3>smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
@@ -925,8 +925,8 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Camera" class="product-img">
                 <div class="product-info">
-                    <h3>Sony A7 IV Camera</h3>
-                    <div class="price">$2,499</div>
+                    <h3>Sony A8 IV Camera</h3>
+                    <div class="price">$3,499</div>
                     <div class="rating">★★★★★ <span>(42)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -935,8 +935,8 @@
                 <span class="product-badge">Bestseller</span>
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
-                    <h3>Chanel No. 5</h3>
-                    <div class="price">$120</div>
+                    <h3>Chanel No. 8</h3>
+                    <div class="price">$150</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
@@ -945,7 +945,7 @@
                 <img src="https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Backpack" class="product-img">
                 <div class="product-info">
                     <h3>Travel Backpack</h3>
-                    <div class="price">$79 <span class="old-price">$99</span></div>
+                    <div class="price">$100 <span class="old-price">$99</span></div>
                     <div class="rating">★★★★☆ <span>(67)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
