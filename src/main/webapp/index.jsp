@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1> Winter Exclusive Collection 2025 </h1>
+            <h1> Winter Collection 2025 </h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -935,8 +935,8 @@
                 <span class="product-badge">Bestseller</span>
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
-                    <h3>Chanel No. 8</h3>
-                    <div class="price">$150</div>
+                    <h3>Chanel No. 5</h3>
+                    <div class="price">$100</div>
                     <div class="rating">★★★★★ <span>(189)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
